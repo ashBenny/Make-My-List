@@ -7,7 +7,7 @@ website/project is to provide a very user friendly and easy to-do app for making
 daily listing and also making the listing according with categories which provides in the 
 dashboard page.
 
-## Objective
+## Features
 
 - Register page with Basic validation.
 - Login page with Proper Authentication.
@@ -17,5 +17,3 @@ dashboard page.
 - Logout button in the to-do page.
 
 
-
-An app using HTML - CSS - NodeJs - Express - MongoDb
